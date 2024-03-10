@@ -58,4 +58,18 @@ Basically what this code does is that it saves all the keystrokes of a user in a
 This is a small example of what the keylogger will record.
 - [Keylog.txt (Example file)](https://github.com/Yasha-Santos/Keylogger/blob/main/KeyLog.txt)
 
+```
+2024-03-07 20:54:38,074: 'h'
+2024-03-07 20:54:38,244: 'e'
+2024-03-07 20:54:38,883: 'l'
+2024-03-07 20:54:39,029: 'l'
+2024-03-07 20:54:39,314: 'o'
+2024-03-07 20:55:06,618: Key.space
+2024-03-07 20:55:06,815: 'w'
+2024-03-07 20:55:07,999: 'o'
+2024-03-07 20:55:08,227: 'r'
+2024-03-07 20:55:09,462: 'l'
+2024-03-07 20:55:09,767: 'd'
+```
+
 The keylogger can store more information in this file, as long as the user is writing this software will record every single keystroke. The file above is only an example of what the output will look like.
