@@ -1,6 +1,6 @@
 # Keylogger
 
-"KeyLog.txt" file contents example:
+Simple Keylogger software
 
 ![](/Images/KeyLog_Image_file.png)
 
