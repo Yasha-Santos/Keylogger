@@ -75,4 +75,4 @@ This is a small example of what the keylogger will record.
 The keylogger can store more information in this file, as long as the user is writing this software will record every single keystroke. The file above is only an example of what the output will look like.
 
 
-*This code is still being worked on, Futurely what this code will do is send all the keystrokes from the "Vulnerable user" to the "Malicious user"*
+*This code is still being worked on. In the future this code will send all the keystrokes from the "Vulnerable user" to the "Malicious user".*
